@@ -199,7 +199,7 @@ function CartOrder() {
                             <div >
                                 <div className="d-md-flex">
                                     <div className="justify-content-start ">
-                                        <img src={item?.product.image ? "http://localhost:5000/uploads/"+ item?.product.image :Geprek} alt='' className="mb-2"></img>
+                                        <img src={item?.product.image ?  item?.product.image :Geprek} alt='' className="mb-2"></img>
                                     </div>
                                     <div className="justify-content-end ml-3">
                                         <div className="mb-3">
