@@ -1,0 +1,90 @@
+.input-delivery{
+    width: 804px;
+height: 47px;
+left: 193px;
+top: 276px;
+
+background: #FFFFFF;
+border-radius: 5px;
+}
+
+.btn-delivery{
+    width: 222px;
+height: 47px;
+left: 1015px;
+top: 276px;
+
+background: #433434;
+border-radius: 5px;
+}
+
+.riview-order{
+    font-family: 'Avenir';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #613D2B;
+
+}
+
+.riview-ukuran{
+    padding:10px;
+    width: 660px;
+    height: 150px;
+
+}
+.total-ukur{
+    width:350px;
+}
+.total-ukuran{
+   
+    height: 150px;
+}
+
+.btn-order{
+    width: 260px;
+height: 40px;
+left: 980px;
+top: 697px;
+background: #433434;
+border-radius: 5px;
+}
+
+.title-order{
+    width: 311px;
+    height: 42px;
+    left: 197px;
+    top: 164px;
+    
+
+    font-family: 'Abhaya Libre ExtraBold';
+font-style: normal;
+font-weight: 800;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+
+}
+
+.delivery-title{
+    width: 140px;
+height: 25px;
+left: 197px;
+top: 236px;
+
+font-family: 'Avenir';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #613D2B;
+
+}

@@ -1,0 +1,58 @@
+.waysFoodHeader{
+    height: 28px;
+  width: 80px;
+  left: 65px;
+  top: 26px;
+  
+  
+    font-family: 'Barlow Condensed';
+    font-size: 23px;
+    font-style: italic;
+    font-weight: 500;
+    line-height: 28px;
+    letter-spacing: 0.01em;
+    text-align: left;
+  
+  }
+
+  .menuNavbar{
+    font-family: 'Product Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+
+    color: #FFFFFF;
+}
+
+.profile-dropdown{
+  font-family: Avenir;
+font-size: 24px;
+font-weight: 800;
+line-height: 33px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+span {
+  color: 'black';
+}
+
+.btn-down{
+  width:max-content;
+}
+.btn-brown{
+  background-color:  #433434;
+}
+.title-down{
+  font-family: 'Avenir';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  /* identical to box height */
+  
+  
+  color: #613D2B;
+}

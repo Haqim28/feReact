@@ -1,0 +1,134 @@
+.btn-edit-css {
+    width: 180px;
+height: 40px;
+left: 196px;
+top: 481px;
+
+background: #433434;
+border-radius: 5px;
+}
+
+.title-edit {
+  
+height: 42px;
+left: 3px;
+top: 164px;
+
+font-family: 'Abhaya Libre ExtraBold';
+font-style: normal;
+font-weight: 00;
+font-size: 36px;
+line-height: 42px;
+
+color: #000000;
+
+}
+
+.subtitle-edit{
+   
+width: 200px;
+height: 14px;
+left: 404px;
+top: 238px;
+
+font-family: 'Avenir';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #613D2B;
+}
+
+.isiProfile-edit{
+    margin-bottom: 20px;
+width: 172px;
+height: 34px;
+left: 403px;
+top: 49px;
+
+font-family: 'Avenir';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+
+
+color: #000000;
+}
+
+.history-title{
+    width: 100px;
+height: 17px;
+left: 841px;
+top: 258px;
+
+font-family: 'Abhaya Libre ExtraBold';
+font-style: normal;
+font-weight: 800;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+
+.history-day{
+    width: 101px;
+height: 12px;
+left: 841px;
+top: 279px;
+
+font-family: 'Avenir';
+font-style: normal;
+font-weight: 900;
+font-size: 9px;
+line-height: 12px;
+display: flex;
+align-items: center;
+
+color: #000000;
+}
+
+.history-ttl{
+    width: 80px;
+height: 14px;
+left: 841px;
+top: 305px;
+
+font-family: 'Avenir';
+font-style: normal;
+font-weight: 900;
+font-size: 10px;
+line-height: 14px;
+/* identical to box height */
+
+
+color: #974A4A;
+}
+
+.waysfood{
+ 
+width: 80px;
+height: 28px;
+left: 1101px;
+top: 256px;
+
+font-family: 'Barlow Condensed';
+font-style: italic;
+font-weight: 500;
+font-size: 23px;
+line-height: 28px;
+/* identical to box height */
+
+letter-spacing: 0.01em;
+
+color: #000000;
+
+}

@@ -1,0 +1,33 @@
+title {
+    position: absolute;
+width: 405px;
+height: 65px;
+left: 237px;
+top: 180px;
+
+font-family: 'Abhaya Libre ExtraBold';
+font-style: normal;
+font-weight: 800;
+font-size: 55px;
+line-height: 65px;
+/* identical to box height */
+
+
+color: #433434;
+}
+
+bodyHead {
+
+width: 274px;
+height: 76px;
+left: 413px;
+top: 348px;
+
+font-family: 'Avenir';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+color: #000000;
+}
