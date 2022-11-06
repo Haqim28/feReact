@@ -39,7 +39,7 @@ function PopularRestaurant() {
                  onClick={() => handleGoToDetail(restaurant.id)}
                  className=" card ml-2 border mt-2 p-4">
                     <div className="d-flex">
-                    <img src={!restaurant?.image  ?  Profile : "http://localhost:5000/uploads/" + restaurant.image } alt=""  width={50} height= {70}className="img fluid "></img>
+                    <img src={!restaurant?.image  ?  Profile :  restaurant.image } alt=""  width={50} height= {70}className="img fluid "></img>
                     <h5 className="text-center pt-4 px-2  font-weight-bold titlePopular"> {restaurant.fullname} </h5>
 
                     </div>
