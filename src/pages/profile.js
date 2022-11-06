@@ -62,7 +62,7 @@ useEffect(() => {
             <div className="justify-content-start" onClick={handleEditProfile}>
               <img
                 src={
-                  profile?.image === "http://localhost:5000/uploads/"
+                  profile?.image === ""
                     ? Orang
                     : profile?.image
                 }
