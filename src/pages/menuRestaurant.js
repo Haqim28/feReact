@@ -67,7 +67,7 @@ function MenuRestaurant(props) {
                           <img 
                           width="100%"
                           height="200"
-                          src={restaurantMenu.image ? "http://localhost:5000/uploads/"+ restaurantMenu?.image : Geprek} alt="" className=""></img>
+                          src={restaurantMenu.image ?  restaurantMenu?.image : Geprek} alt="" className=""></img>
                         <h5 className="text-left  pt-2 ">{restaurantMenu.title} </h5>
                         <p className="text-left " >{restaurantMenu.price}</p>
                         <button variant="warning" class="btn btn-warning btn-md mt-5 btn-block"
