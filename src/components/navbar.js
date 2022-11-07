@@ -112,7 +112,7 @@ function PrivatePage(props) {
             <ul class="navbar-nav mr-auto"></ul>
             <form class="form-inline my-2 my-lg-0">
               <div onClick={handleCart} style={{ cursor: "pointer" }}>
-                <div style={{position:"absolute",backgroundColor:"red", borderRadius:"100%", width:"25px",height:"25px",right:"70px",fontWeight:"bold" }}>3</div>
+                {/* <div style={{position:"absolute",backgroundColor:"red", borderRadius:"100%", width:"25px",height:"25px",right:"70px",fontWeight:"bold" }}>3</div> */}
                 <img src={keranjang} alt="delivery" className="mr-4 "></img>
               </div>
               <div className="dropdown">
