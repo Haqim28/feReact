@@ -47,7 +47,7 @@ function CartOrder() {
         if(isLoading){
             getData()
         }
-    }, [isLoading])
+    }, [cart,isLoading])
 
     const handleDelete = async (id) => {
         try {
@@ -140,13 +140,6 @@ function CartOrder() {
       console.log(responseUpdate.data.data);
 
       navigate(`/profile`);
-
-
-
-
-
-
-
 
             }catch(error){
                 console.log(error);
