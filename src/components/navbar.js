@@ -379,7 +379,7 @@ function PartnerPage() {
             <form class="form-inline my-2 my-lg-0">
               <div className="dropdown">
                 <img
-                  src={profile?.image === "http://localhost:5000/uploads/" ? partner : profile?.image  }
+                  src={!profile?.image === profile?.image  }
                   alt=""
                   className="dropdown rounded-circle"
                   width={40}
