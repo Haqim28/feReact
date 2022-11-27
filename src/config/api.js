@@ -1,7 +1,7 @@
 import axios from "axios";
 
 export const API = axios.create({
-  baseURL: "https://waysfoodapp.herokuapp.com/api/v1/",
+  baseURL: "https://waysfoodbackend.up.railway.app/api/v1/",
 });
 
 export const setAuthToken = (token) => {
